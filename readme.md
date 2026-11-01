@@ -725,7 +725,7 @@
 - https://messari.io/screener
 - https://coin360.com
 - https://www.coingecko.com
-
+- https://cryptobubbles.org
 ### Rollups
 - https://welovetheblobs.xyz
 - https://rollup.wtf
