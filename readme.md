@@ -724,6 +724,7 @@
 - https://coinmarketcap.com
 - https://messari.io/screener
 - https://coin360.com
+- https://cryptobubbles.org
 - https://www.coingecko.com
 
 ### Rollups
